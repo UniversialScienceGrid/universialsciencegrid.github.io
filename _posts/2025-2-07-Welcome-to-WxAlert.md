@@ -1,7 +1,7 @@
 # WxAlert
 A simple, fullscreen severe weather alert system for Australia that runs silently in the background.
 
-![WxAlert Screenshot](screenshot.png)
+![WxAlert Screenshot](/screenshot.png)
 ---
 
 ## What is WxAlert?
